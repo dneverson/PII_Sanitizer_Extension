@@ -66,7 +66,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌟 Support
 
-If you found this project useful, please consider giving it a star on GitHub, sharing it with others, and or donating [Paypal Donation Page](https://www.paypal.com/donate/?hosted_button_id=TPHPL2ZYZA2JL)
+If you found this project useful, please consider giving it a star on GitHub, sharing it with others, and or donating [PayPal Donation Page](https://www.paypal.com/donate/?hosted_button_id=TPHPL2ZYZA2JL)
 
 ## 📧 Contact
 
