@@ -48,7 +48,7 @@ Thanks for considering contributing to PII Sanitizer Extension! This guide expla
 ### Development Setup
 ```bash
 # Setup steps
-git clone [repository-url]
+git clone https://github.com/dneverson/PII_Sanitizer_Extension
 npm install
 npm test
 
