@@ -10,7 +10,7 @@ Thanks for considering contributing to PII Sanitizer Extension! This guide expla
 ## How to Contribute
 
 ### Reporting Bugs
-1. Check if the bug already exists in [Issues](issues-link)
+1. Check if the bug already exists in [[Issues](issues-link)](https://github.com/dneverson/PII_Sanitizer_Extension/issues)
 2. Include:
    - Extension version
    - Browser version
@@ -19,7 +19,7 @@ Thanks for considering contributing to PII Sanitizer Extension! This guide expla
    - Screenshots if relevant
 
 ### Suggesting Features
-1. Check if the feature has been requested in [Issues](issues-link)
+1. Check if the feature has been requested in [[Issues](issues-link)](https://github.com/dneverson/PII_Sanitizer_Extension/issues)
 2. Explain the use case and benefits
 3. Be specific about implementation if possible
 
