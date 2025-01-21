@@ -129,14 +129,6 @@ const DEFAULT_SANITIZATIONS = [
     replacement: 'VIN_REMOVED',
     enabled: true,
     isRegex: true
-  },
-  {
-    id: '14',
-    description: 'ASD',
-    pattern: 'asd',
-    replacement: 'WEEEeeeEEEE',
-    enabled: true,
-    isRegex: false
   }
 ];
 

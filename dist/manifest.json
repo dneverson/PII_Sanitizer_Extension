@@ -5,8 +5,7 @@
   "description": "Automatically sanitize PII data in text inputs",
   "permissions": [
     "storage",
-    "activeTab",
-    "scripting"
+    "activeTab"
   ],
   "action": {
     "default_popup": "popup.html",
